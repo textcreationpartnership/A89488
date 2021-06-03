@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The manner of the discovering the King at Southwell, on Tuesday the 5. of April, 1646. who is now in the Parliaments quarters before Newarke. Banbury taken in, with the ordnance, armes, and ammunition. And the treaty with Sir Charles Compton from Oxford. Also the copie of Sir Thomas Fairfax's proclamation, commanded to be read in all churches neere Oxford. And the copie of the summons sent to Ludlow, and the governours answer: and a copie of Colonel Birch his letter. These are commanded to be printed by the originall papers, and published according to order of Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89488</idno><idno type="EEBO-CITATION">99861449</idno>
+  <idno type="VID">113585</idno>
+  <idno type="EEBO-PROQUEST">2240902245</idno>
+  
+            <idno type="STC">Wing M466</idno>
+            <idno type="STC">Thomason E336_13</idno>
+            <idno type="STC">ESTC R200811</idno>
+            <idno type="PROQUEST">99861449</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861449e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113585)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E336[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The manner of the discovering the King at Southwell, on Tuesday the 5. of April, 1646. who is now in the Parliaments quarters before Newarke. Banbury taken in, with the ordnance, armes, and ammunition. And the treaty with Sir Charles Compton from Oxford. Also the copie of Sir Thomas Fairfax's proclamation, commanded to be read in all churches neere Oxford. And the copie of the summons sent to Ludlow, and the governours answer: and a copie of Colonel Birch his letter. These are commanded to be printed by the originall papers, and published according to order of Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop and J. Coe.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113585:1"/>
+            <p>The manner of the discovering the KING at Southwell, on Tuesday the 5. of April, 1646. who is now in the Parliaments Quarters be<g ref="char:EOLhyphen"/>fore Newarke.</p>
+            <p>
+               <hi>Banbury</hi> taken in, with the Ordnance, Armes, and Ammunition.</p>
+            <p>
+               <hi>AND</hi> The Treaty with Sir <hi>Charles Compton</hi> from OXFORD.</p>
+            <p>
+               <hi>ALSO</hi> The Copie of Sir <hi>Thomas Fairfax's</hi> Proclamation, commanded to be read in all Churches neere <hi>Oxford.</hi>
+            </p>
+            <p>
+               <hi>AND</hi> The Copie of the Summons sent to LUDLOW, and the Governours Answer: And a Copie of Colonel <hi>Birch</hi> his Letter.</p>
+            <p>These are commanded to be printed by the Originall papers, and published according to Order of Parliament.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Bernard Alsop</hi> and <hi>J. Coe.</hi>
+               <add>may .7<seg rend="sup">th</seg>.</add> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:113585:2"/>
+            <head>The manner of discovering the King at <hi>Southwel</hi> on Tuesday the 5. of April, 1646. who is now in the Parliaments Quarters be<g ref="char:EOLhyphen"/>fore <hi>Newark.</hi>
+            </head>
+            <p>ON <hi>Tuesday</hi> the fifth of April, 1646. Ge<g ref="char:EOLhyphen"/>nerall <hi>Leven</hi> having notice of the Kings being at <hi>Southwell</hi> in <hi>Nottingham-shire,</hi> with the French Agent in the Scots Quarters, ac<g ref="char:EOLhyphen"/>quainted the English Commissioners there<g ref="char:EOLhyphen"/>with, by two Commissioners sent for that purpose; As also that he had way-laid the town in severall places, that so His Majestie might not go away: the Commissioners of both Kingdomes sent up to <hi>London</hi> to ac<g ref="char:EOLhyphen"/>quaint the Parliament of <hi>England</hi> therewith, and to know their pleasures therein; this it is hoped, will be the sudden peace of these Kingdomes, <hi>which God grant.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="1" facs="tcp:113585:2"/>
+            <head>Colonell <hi>Birch</hi> his Letter.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">S</seg>IR,</salute>
+            </opener>
+            <p>In order to that Command, which the Right Honourable, the Committee of both Kingdoms were pleased to entrust me with, I have laid close fiege to <hi>Ludlow;</hi> and doubt not, but to give such an account of it, considering the shortnesse of the time I have been before it, and the strength of the place, may be expected from me; whose endeavours are ambitious in nothing more then to serve the Publique, and really manifest my self</p>
+            <closer>
+               <signed>
+                  <hi>Your most thankfull, and obleidged</hi> Servant, J. BIRCH.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Colonell <hi>Birch</hi> his Summons to <hi>Ludlow</hi> Castle.</head>
+            <opener>
+               <salute>GEntlemen,</salute>
+            </opener>
+            <p>It is far from my desire to be an occasion of shedding of blood, or ruining the estates of any; And for that I conceive your selves are sensible of the danger of both, in case we proceed on without restraint of that violence which the Souldiers will be ready to execute (which I hope you will joyn with me to prevent) I have thought good out of my reall affection unto, and earnest desire of your preservation, To let you know, that it is yet in your power to prevent your own totall ruine,
+<pb n="2" facs="tcp:113585:3"/>and in my power to grant you such tearmes, as may be honourable to the Military part, and profitable to those who have other reso<g ref="char:EOLhyphen"/>lutions then to live by their swords. And that which makes me confident that you cannot reject this opportunity, is, That if you shall, you are so farre from doing that, which otherwise in honour you are bound, that in this case (which you are not ignorant of) you make your selves, and all others who shall put themselves un<g ref="char:EOLhyphen"/>der your protection, uncapable of any thing but extremity; there being neither any visible force in the Field, nor any Garrison un<g ref="char:EOLhyphen"/>besieged, which can yeeld you the least hopes of reliefe. I need not tell you of Exeter, Barnstable, the Mount, and sundry other places of strength, maintained by men of honour, who have conceived it prudence (and not without good reason) to make those places happy by tearmes of honour, which they knew they must make miserable by refusing the opportunity offered. For an example of the latter you need not seek far to find those who have not onely to their great dishonour destroyed utterly those under their prote<g ref="char:EOLhyphen"/>ction, but have now thankfully within few dayes embraced such tearmes, as that their lives are at the Parliaments mercy: Their owne unadvisednesse having been such, that they had very neere made the Besiegers uncapable of granting them that. And if you shal not now yeeld unto this Summons, which in the name of both Houses of Parliament I send you, for the delivery of this Towne and Castle of <hi>Ludlow</hi> unto me, for them who have found it neces<g ref="char:EOLhyphen"/>sary for the good of His Majesty and Kingdome, to command the same, but shall make me by your delay (which is the best you can promise) also by a superiour command uncapable of giving you that which now I offer, and that all kind of misery follow which the sword necessarily brings with it, I beseech you impute it not to him, who willingly shall approve himselfe</p>
+            <closer>
+               <dateline>From my Leagner <date>this 2. of April, 1646.</date>
+               </dateline>
+               <signed>Your very loving friend, <hi>J. Birch.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Gentlemen, the weightinesse of this businesse is such, that I con<g ref="char:EOLhyphen"/>ceive it will require some time of consultation; and I am loth to debar you of that, or any thing else that may tend to your safety; therefore it shall content me to receive your Answer to morrow by 12. of the Clock: And in the meane time, if you desire it, all
+<pb n="3" facs="tcp:113585:3"/>acts of Hostility shall be forborne on the behalf of</p>
+               <closer>
+                  <signed>J. B.</signed>
+               </closer>
+            </postscript>
+            <trailer>For Sir <hi>Mich: Woodhouse,</hi> Governour of the Towne and Castle of <hi>Ludlow,</hi> and the Bailiffes and Aldermen of the same Towne.</trailer>
+         </div>
+         <div type="letter">
+            <head>The Governours Answer.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Received yours, directed to many, but finding my selfe particularly entrusted by His Majesties Com<g ref="char:EOLhyphen"/>mission in what you demand, I returne this to your severall Objections. As for the avoiding of blood-shed, or ruine of any, I shall ever endeavour it, so farre as my condition affords indischarge of that trust reposed in me, and shall be assenting to what may procure the same, as befits the loyalty of a subject, and faith of a Soldier, resolving to sacrifice all, rather then to violate either, but shall willingly embrace any generall preser<g ref="char:EOLhyphen"/>vation. Sir, you seeme to be carefull of us in this Gar<g ref="char:EOLhyphen"/>rison, but in following this your advice, I and the rest shall forfeit more then we can regaine; but your civi<g ref="char:EOLhyphen"/>lity obliges, wherein a souldier may requite, I cannot admit of your severall reasons for delivery of this place, neither are the actions of others cited by you, without farther consideration, any warrantable presi<g ref="char:EOLhyphen"/>dent at all for me. As for the tearmes that others have had which you call Honorable, I cannot find any at all Honourable for me, at this present, without receiving His Majesties Command for what I act. Indeed I wonder this Garrison should be demanded of me, for I have been certainly informed that His Majesty hath made a free offer of it himselfe to the Parliament, and in delivering of it, I might prevent His Majesties inten<g ref="char:EOLhyphen"/>tion, and prejudice you, for doubtlesse it should be
+<pb n="4" facs="tcp:113585:4"/>more acceptable from the Master, then the Servant; As for any under my protection, I shall endeavour their pre<g ref="char:EOLhyphen"/>servation as my own, and what ruine or extreamity shall happen, doubtlesse it will be imputed to the Actors of it: As for your Summons to this Town and Castle, I cannot assent unto it, neither with my allegeance, or honour of a Souldier, in the condition I am now in to resist you; but to shew my self willing to avoid the appearance of ruine, which must necessarily fall upon many, if extreamity be made choice of, I shal willingly condescend to what may avoid it, as befits a Souldier, and shall if you condescend unto it send two Gentlemen to the King to know his pleasure, which I conceive will be the easiest way for both Parties. Sir, to this I desire your answer, and rest</p>
+            <closer>
+               <dateline>Ludlow Castle, <date>May 2. 1646.</date>
+               </dateline>
+               <signed>Your humble Servant, <hi>M. WOODHOUSE.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>Postcript.</head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>I desire that this Trumpeter upon the delivery of the Letter, may be returned, and I shall be ready to receive your Answer, when you shall be pleased to send it.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>For Colonell <hi>Iohn Birc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> these,</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>On Friday the 1. of this instant <hi>May,</hi> the Gene<g ref="char:EOLhyphen"/>rall faced Oxford within musket shot of the works; the Enemy onely looked on us: that night the Gen. quartered at Garlington, on Saturday the 2. the Generall marched to Headington, within a mile of Oxford, which for ought I know, will be the place for the Head-quarters, till Ox<g ref="char:EOLhyphen"/>ford be surrendred, or taken by storm: we have set out se<g ref="char:EOLhyphen"/>verall Posts, <hi>viz.</hi> at Heddington, two Regiments, the Ge<g ref="char:EOLhyphen"/>neralls and Col. Overtons: At Marston two Regiments, Major Gen. Skippons, and Col. Harlowes: At Cowly two Regiments, Sir Hardresse VVallers, and Col. Her<g ref="char:EOLhyphen"/>berts. The Train of Artillery is at Elisfield. Prince Ru<g ref="char:EOLhyphen"/>pert
+<pb n="5" facs="tcp:113585:4"/>sent a Letter to Col. Trever, to have liberty for him<g ref="char:EOLhyphen"/>self and others to be admitted to passe forth, for their li<g ref="char:EOLhyphen"/>berty and safety, as many as can steal away. The Lord St. Paul, the Lord Storton, the Lady Digby, and the Coun<g ref="char:EOLhyphen"/>tesse of Hartford, and others of quality would fain come in; but the Generall will treat only for the surrender, and all together, where His Majesty is, neither we, nor the Souldiery in Oxford can tell. Last VVednesday they kept a Fast in Oxford, and then the Priests told them in their Pulpits, that the King is gone to London; but their eyes being opened by a few dayes experience, I beleive they will be willing to surrender Oxford. The Generall hath sent Col. VVeldens Forces to block up VValling<g ref="char:EOLhyphen"/>ford on the one side, as the Forces from Reading &amp; Hen<g ref="char:EOLhyphen"/>ley do it on the other: On Sunday the third of this in<g ref="char:EOLhyphen"/>stant, we took some Packets that came from London di<g ref="char:EOLhyphen"/>rected to the King, and others. This day a great part of the Enemies Foot came over the Bridge, and made a flourish on this side the River; but we no sooner began to move, but they immediatly vanished, we are raising a VVork within musket shot of the Enemies VVorks of Oxford, they have shot two pieces at us, but done us no harme at all: Sir Marmaduke Roydon the Governour of Farring<g ref="char:EOLhyphen"/>don is dead. I have sent you here inclosed, the Copy of a Proclamation that was published in all the adjacent Pa<g ref="char:EOLhyphen"/>rishes neer Oxford, by order from the Generall.</p>
+            <closer>
+               <dateline>Heddington <date>the 4 of May, 1646.</date>
+               </dateline>
+               <signed>Your Servant, <hi>W. T.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Sir Charles Compton hath come from Oxford to treat with the Generall for Sir VVilliam Compton a<g ref="char:EOLhyphen"/>bout Banbury, and agreed, that it shall be surrendred, with all the Ordnance, Armes, and Ammunition, to Colonell VVhaley for the use of the Parliament.</p>
+            </postscript>
+         </div>
+         <div type="proclamation">
+            <pb n="6" facs="tcp:113585:5"/>
+            <head>By Sir <hi>Thomas Fairfax,</hi> Knight, Commander in Chiefe of the Parliaments Forces.</head>
+            <p>VVHereas I have appointed a free Market to be kept every day in the weeke (the Lords day excepted) at the Leaguer before <hi>Oxford:</hi> I doe therefore hereby strictly Charge and Com<g ref="char:EOLhyphen"/>mand all and every the Inhabitants of the Countyes of <hi>Oxford</hi> and <hi>Berks</hi> within two miles of the said Leaguer to provide and bring in or cause to be brought into the head quarters in the way of a free market, competent provisions of Corne, Flesh, Cheese, Bread, But<g ref="char:EOLhyphen"/>ter, Hay, Oates, Beanes, and all other kind of Victualls, provisions, and other necessaries for the use of the Army, for which they shall receive ready money, and herein I expect their ready conformity, as they tender the service of the State, and will answer the contrary as their perill.</p>
+            <p>And for their better encouragement, I do hereby strictly charge and command all Officers and soldiers, and other persons whatsoever, that they do not presume upon any pretence whatsoever, to stop, seize, impresse or take away any of the horses, cattle, or goods, passing or re<g ref="char:EOLhyphen"/>passing, to and from the said market, upon pain of death without mercy, and touching the regulating of the said market, and for the preventing of disorder therein, I do by these presents prohibit all fore<g ref="char:EOLhyphen"/>stalling, and retailing in the same: commanding that no souldier, or other person or persons whatsoever, presume to buy, or cause to be bought, any provisions, or things whatsoever, comming towards the said market to be sould there, before the same be in the head quar<g ref="char:EOLhyphen"/>ters, to be sould in the open market, upon the forfeiture of the value of the goods so by him or them bought, and suffer punishment, as by the Councell of War.</p>
+            <closer>
+               <dateline>Given under my hand and seale, at <hi>Heddington</hi>
+                  <date>this 4. day of <hi>May,</hi> 1646.</date>
+               </dateline>
+               <signed>T. FAIRFAX.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
